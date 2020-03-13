@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SemesterProject</string>
+    <string name="title">Jackie Rent-A-Car</string>
+    <string name="submit_login">log in</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_chooseItem">2. Select A Car!</string>
+    <string name="selectItem">Rent this Car</string>
+    <string name="per_days">/day</string>
+    <string name="Fragment_title">Account total</string>
+    <string name="fragment_button">Back to Step 1. pick up date</string>
+    <string name="total_rental_days">Rental days</string>
+    <string name="insurance">Select insurance</string>
+    <string name="insurance_type1">100</string>
+    <string name="insurance_type2">50</string>
+    <string name="insurance_type3">None</string>
+    <string name="title4">Rent-A-Car Options</string>
+    <string name="title2">1. Rental days</string>
+    <string name="start_date">Pick-up date</string>
+    <string name="end_date">Return date</string>
+    <string name="Btn_next">NEXT</string>
+    <string name="title3">3. Add options</string>
+    <string name="Equip_1">GPS                   $11.99/day</string>
+    <string name="Equip_2">Satellite radio        $5.99/day</string>
+    <string name="Equip_3">Infant Car Seat       $5.99/rental</string>
+    <string name="ins_Description1">Full coverage</string>
+    <string name="ins_Description2">Half coverage</string>
+    <string name="ins_Description3">No Insurance</string>
+    <string name="title5">4. Review and Reserve</string>
+    <string name="prompt_name">Enter Name</string>
+    <string name="prompt_phoneNum">Enter Phone Number</string>
+    <string name="prompt_Email">Enter Email address</string>
+    <string name="name">Name</string>
+    <string name="phoneNum">Phone Number</string>
+    <string name="Email">Email address</string>
+    <string name="car_price">Rental car price</string>
+    <string name="option_price">Total option price</string>
+    <string name="Total_Price">Total rental price</string>
+    <string name="btn_Rent">Rent!</string>
+    <string name="title_activity_find_location">Map</string>
+    <string name="PLAY">PLAY</string>
+    <string name="cc">CC</string>
+    <string name="subject">Subject</string>
+    <string name="msg">Type Message</string>
+    <string name="send">SEND EMAIL</string>
+
+</resources>
+

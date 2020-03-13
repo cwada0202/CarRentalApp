@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F796E</color>
+    <color name="colorPrimaryDark">#0A302B</color>
+    <color name="colorAccent">#02225A</color>
+    <color name="toolbar">#3FB5AB</color>
+    <color name="item_background">#33EEDCB3</color>
+    <color name="btn_select_Text">#FFFFFF</color>
+    <color name="userInput">#F44336</color>
+    <color name="fragment_button">#FFA500</color>
+    <color name="next_Button">#4CAF50</color>
+    <color name="titel_background">#A2D7D0</color>
+</resources>
